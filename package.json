@@ -1,0 +1,19 @@
+{
+  "name": "@dima2021/maliciousjspackage",
+  "version": "1.0.0",
+  "description": "Malicious JS package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dima2021/MaliciousJSpackage.git"
+  },
+  "author": "Dima2021",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dima2021/MaliciousJSpackage/issues"
+  },
+  "homepage": "https://github.com/Dima2021/MaliciousJSpackage#readme"
+}
